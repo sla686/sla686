@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my profile!
+### Welcome to my profile!
 
 ### Languages and Tools:
 
