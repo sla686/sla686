@@ -1,4 +1,9 @@
-### Hello 👋
+# Hello 👋 
+
+## Welcome to my profile
+
+- I have been learning Front-End technologies for about a year. I was always struggle to build web sites, but as time passes, I have improved my skills and now I continue to enhance them.
+- I'm currently trying to implement this knowledge via different projects. You can find some of them below (more to be added).
 
 <!--
 Here are some ideas to get you started:
@@ -13,9 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to my profile!
-
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
