@@ -2,7 +2,7 @@
 
 ## Welcome to my profile
 
-- I have been learning Front-End technologies for about a year. I was always struggle to build web sites, but as time passes, I have improved my skills and now I continue to enhance them.
+- I have been learning Front-End technologies for about a year and Back-End technologies for about 3 months. I was always struggle to build web sites, but as time passes, I have improved my skills and now I continue to enhance them.
 - I'm currently trying to implement this knowledge via different projects. You can find some of them below (more to be added).
 
 <!--
