@@ -2,8 +2,9 @@
 
 ## Welcome to my profile
 
-- I have been learning web development technologies for about a year. I was always struggle to build web sites, but as time passes, I have improved my skills and now I continue to enhance them.
-- I'm currently trying to implement this knowledge via different projects. You can find some of them below (pinned) and in my repositories.
+- I've been learning web development technologies for about a year. I was always struggle to build web sites, but as time passes, I have improved my skills and now I continue to enhance them.
+- In addition, I've been learning the DevOps culture and related technologies.
+- Currently, I'm trying to implement this knowledge via different projects. You can find some of them below (pinned) and in my repository list.
 
 <!--
 Here are some ideas to get you started:
