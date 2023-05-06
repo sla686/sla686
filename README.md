@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Languages and Tools:
+## Currently I am using the following languages and tools:
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <!-- <img align="left" alt="HTML5" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> -->
 <!-- <img align="left" alt="CSS3" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
 <!-- <img align="left" alt="Sass" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -->
 <!-- <img align="left" alt="Material-UI" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /> -->
-<img align="left" alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Redux" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<!-- <img align="left" alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -->
+<!-- <img align="left" alt="TypeScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
+<!-- <img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
+<!-- <img align="left" alt="Redux" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> -->
 <img align="left" alt="Python" width="28px" src="./img/python.svg" />
-<img align="left" alt="Node.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<!-- <img align="left" alt="Node.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
 <!-- <img align="left" alt="Express.js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> -->
 <img align="left" alt="MongoDB" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="PostgreSQL" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Docker" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Kubernetes" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" alt="Ansible" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-<img align="left" alt="Jenkins" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<!-- <img align="left" alt="Jenkins" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> -->
 <img align="left" alt="Amazon Web Services" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 
 <img align="left" alt="Git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
