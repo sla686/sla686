@@ -2,11 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sla686&color=0e75b6&style=flat" alt="sla686" /> </p>
 
+Hi, I'm Slava, and I'm passionate about DevOps and software development!
+
 ## Welcome to my profile
 
-- I've been learning web development technologies for about a year. I was always struggle to build web sites, but as time passes, I have improved my skills and now I continue to enhance them.
-- In addition, I've been learning the DevOps culture and related technologies.
-- Currently, I'm trying to implement this knowledge via different projects. You can find some of them below (pinned) and in my repository list.
+- I've been honing my DevOps skills and exploring related technologies for about 2+ years. I'm passionate about DevOps culture and its adjacent technologies.
+- I started as a novice, but through perseverance and dedication, I've made significant progress in DevOps and operations.
+- In additon, over the past years, I've delved into web development.
+- I'm actively applying my knowledge through various projects which range from creating and maintaining CI/CD pipelines to maintain and provision infrastructure and its resources.
+- Feel free to explore my pinned projects below and browse through my repositories to see more of my work. Please keep in mind that majority of my current work is private and owned by the company I work for.
+- If you share similar interests or have any questions, let's connect and collaborate!
 
 <!--
 Here are some ideas to get you started:
