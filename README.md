@@ -1,5 +1,7 @@
 # Hello 👋 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sla686&label=Profile%20views&color=0e75b6&style=flat" alt="sla686" /> </p>
+
 ## Welcome to my profile
 
 - I've been learning web development technologies for about a year. I was always struggle to build web sites, but as time passes, I have improved my skills and now I continue to enhance them.
