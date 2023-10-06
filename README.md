@@ -1,8 +1,8 @@
-# Hello 👋 
+# Hello, I'm Slava 👋 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sla686&color=0e75b6&style=flat" alt="sla686" /> </p>
 
-Hi, I'm Slava, and I'm passionate about DevOps and software development!
+I'm passionate about DevOps and software development!
 
 ## Welcome To My Profile 😄
 
