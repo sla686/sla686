@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sla686&color=0e75b6&style=flat" alt="sla686" /> </p>
 
-I'm passionate about DevOps and software development!
+Certified DevOps Engineer who is passionate about DevOps, SRE and Cloud!
 
 ## Welcome To My Profile 😄
 
-- I've been honing my DevOps skills and exploring related technologies for about 2+ years. I'm passionate about DevOps culture and its adjacent technologies.
+- I've been honing my DevOps skills and exploring related technologies for about 4+ years. I'm passionate about DevOps culture and its adjacent technologies.
 - I started as a novice, but through perseverance and dedication, I've made significant progress in DevOps and operations.
 - In additon, over the past years, I've delved into web development.
 - I'm actively applying my knowledge through various projects which range from creating and maintaining CI/CD pipelines to maintain and provision infrastructure and its resources.
